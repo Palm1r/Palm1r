@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Palm1r
-- 👀 I’m interested in UI\UX and frameworks for that. Such as Qt, Flutter, WxWidget, Wt and others. 
+- 👋 Hi, My name is @Petr Mironychev and I amd C++\Qt developer and enthusiast in UI\UX projects
+- 👀 I’m interested in ant UI\UX and frameworks for that
 - ⚒️ I also do my home projects in the field of useful tools for developers and content creators.
 - 🌱 I’m currently learning new patterns for creating clean and testable code.
 
