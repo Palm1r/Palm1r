@@ -5,7 +5,7 @@
 
 ### 🔧 What I Do
 
-- Develop robust applications using C++, Qt, and QML
+- Develop robust applications using C++, Qt, and QML for more 10 years
 - Design and implement intuitive user interfaces
 - Create tools to enhance developer productivity
 - Optimize user experience in software applications
@@ -23,6 +23,9 @@
 - Researching advanced C++ techniques for performance optimization
 - Developing innovative tools to streamline the software development process
 - Collaborating on open-source projects to contribute to the developer community
+
+### 📫 How to reach me 
+- email: palm1r-github-dev@pm.me
 
 ---
 
