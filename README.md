@@ -4,28 +4,36 @@
 👋 Welcome to my GitHub profile! I'm passionate about creating efficient, user-friendly software solutions.
 
 ### 🔧 What I Do
+  * Build production Qt/C++/QML applications for 10+ years
+  * Design and integrate AI/LLM capabilities into developer tools
+  * Architect cross-platform software (desktop, mobile, embedded)
+  * Create tools that bridge complex backends with great UX
+    
+### 💡 Recognition
+  * Qt Champion 2024 & 2025 (Qt Company's recognition program for community contributors)
+  * Author of QodeAssist — AI coding assistant for Qt Creator 
+      (GPL-3.0, actively maintained)
+  * Author of LLMQore — C++/Qt abstraction layer over LLM providers (Ollama, Claude, OpenAI, Google, Mistral, llama.cpp, LM Studio) with streaming, tool calling, and MCP support
 
-- Develop robust applications using C++, Qt, and QML for more 10 years
-- Design and implement intuitive user interfaces
-- Create tools to enhance developer productivity
-- Optimize user experience in software applications
+### 🚀 Current Focus 
+  * Advancing AI integration patterns in native Qt applications
+  * MCP (Model Context Protocol) in C++/Qt environments
+  * Cross-platform application development (desktop, mobile, embedded)
+  * Production integration of LLM features into real products
 
-### 💡 My Focus
-
-- Bridging the gap between complex backend systems and user-friendly frontends
-- Continuously improving code quality and maintainability
-- Exploring new patterns for clean and testable code architecture
-- Staying updated with the latest UI/UX trends and best practices
-
-### 🚀 Current Endeavors
-
-- Refining my skills in Qt and QML for cross-platform development
-- Researching advanced C++ techniques for performance optimization
-- Developing innovative tools to streamline the software development process
-- Collaborating on open-source projects to contribute to the developer community
+### 💡 Core Skills
+  * C++11/14/17/20, modern Qt (5.x and 6.x), QML
+  * AI/LLM integration, MCP protocol, streaming APIs, 
+      tool calling, prompt template systems
+  * Cross-platform: Windows, Linux, macOS, Android, iOS
+  * Architecture: MVC, MVVM, MVP, BloC, ECS
+  * CMake, qmake, CI/CD (GitHub Actions, GitLab, Jenkins)
+  * Python, JavaScript
+  * 3D graphics: OpenGL, Vulkan, BGFX/Filament Qt integration
+  * Team leadership, technical interviewing, mentoring
 
 ### 📫 How to reach me 
-- email: palm1r-github-dev@pm.me
+  * email: palm1r-github-dev@pm.me
 
 ---
 
