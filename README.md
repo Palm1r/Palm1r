@@ -22,7 +22,7 @@
   * Production integration of LLM features into real products
 
 ### 💡 Core Skills
-  * C++11/14/17/20, modern Qt (5.x and 6.x), QML
+  * C++11/14/17/20, modern Qt (5.x and 6.x), QML, Go, Rust
   * AI/LLM integration, MCP protocol, streaming APIs, 
       tool calling, prompt template systems
   * Cross-platform: Windows, Linux, macOS, Android, iOS
