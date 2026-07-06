@@ -16,7 +16,7 @@
 * **[QodeAssist](https://github.com/Palm1r/QodeAssist)** — AI coding assistant plugin for Qt Creator (GPL-3.0, actively maintained). Config-driven providers, streaming, tool calling, MCP, and local/private model support.
 * **[LLMQore](https://github.com/Palm1r/LLMQore)** — C++/Qt abstraction layer over LLM providers (Ollama, Claude, OpenAI, Google, Mistral, llama.cpp, LM Studio) with streaming, tool calling, and MCP support.
 * **[Changes Panel](https://github.com/Palm1r/qt-creator-changes-panel)** — Qt Creator pane listing VCS-changed files across all open projects, with inline diff / stage / revert (built on the `Core::VcsManager` API).
-* **[Sticky Scroll](https://github.com/Palm1r/qt-creator-sticky-scroll)** — pins the enclosing scope headers to the top of the editor while scrolling; per-language strategies derived from the highlighter's folding data.
+* **[Sticky Scroll](https://github.com/Palm1r/qt-creator-sticky-scroll)** — Qt Creator plugin for pins the enclosing scope headers to the top of the editor while scrolling; per-language strategies derived from the highlighter's folding data.
 
 ## 💡 Core Skills
 
