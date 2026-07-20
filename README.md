@@ -1,27 +1,36 @@
-👋 Welcome to my GitHub profile! I build efficient, well-crafted native software.
+<div align="center">
 
-## 🔧 What I Do
+# Petr Mironychev
 
-* Build production Qt/C++/QML desktop applications (10+ years)
-* Work deep in QML, custom rendering, and GPU/shader pipelines
-* Architect cross-platform software (desktop, mobile, embedded)
-* Design and integrate LLM/AI capabilities into developer tools
+**Qt/C++ Developer · 10+ years of native desktop software**
 
-## 🏆 Recognition
+Developer tools at the intersection of Qt and LLMs
 
-* **Qt Champion 2024 & 2025** — Qt Company's recognition program for community contributors
+Qt Champion 2024 & 2025 · palm1r-github-dev@pm.me
 
-## 💡 Core Skills
+</div>
 
-* C++11/14/17/20, modern Qt (5.x and 6.x), QML
-* Cross-platform: Windows, Linux, macOS, Android, iOS
-* 3D graphics: OpenGL, Vulkan, BGFX/Filament Qt integration
-* AI/LLM integration, MCP protocol, streaming APIs, tool calling, prompt template systems
-* Architecture: MVC, MVVM, MVP, BloC, ECS
-* CMake, qmake, CI/CD (GitHub Actions, GitLab, Jenkins)
-* Go, Rust, Python, JavaScript
-* Team leadership, technical interviewing, mentoring
+---
 
-## 📫 How to reach me
+### Projects
 
-* email: palm1r-github-dev@pm.me
+**[QodeAssist](https://github.com/Palm1r/QodeAssist)** — AI coding assistant plugin for Qt Creator.
+Chat with tool calling, code completion, quick refactor · 13 LLM providers · MCP client/server. ★ 428
+
+**[LLMQore](https://github.com/Palm1r/llmqore)** — Qt-native LLM SDK.
+Provider abstraction, streaming, tool calling, MCP/ACP · QFuture/QNetworkAccessManager-based. ★ 29
+
+### Qt Creator plugins
+
+<table>
+<tr><td><b><a href="https://github.com/Palm1r/qt-creator-sticky-scroll">sticky-scroll</a></b></td><td>Pinned scope headers while scrolling. In Qt Creator's extension list.</td></tr>
+<tr><td><b><a href="https://github.com/Palm1r/qt-creator-changes-panel">changes-panel</a></b></td><td>VCS-modified files as a live navigation pane.</td></tr>
+<tr><td><b><a href="https://github.com/Palm1r/nord-qtcreator">nord-qtcreator</a></b></td><td>Nord color theme.</td></tr>
+</table>
+
+### Background
+
+**Core:** C++17/20 · Qt 5/6 · QML · CMake · desktop / mobile / embedded<br>
+**Graphics:** custom QML rendering · OpenGL · Vulkan · BGFX/Filament<br>
+**AI/LLM:** streaming APIs · tool calling · MCP/ACP protocols<br>
+**Leadership:** team lead · technical interviewing · mentoring
