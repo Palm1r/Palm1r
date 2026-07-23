@@ -15,10 +15,10 @@ Qt Champion 2024 & 2025 · palm1r-github-dev@pm.me
 ### Projects
 
 **[QodeAssist](https://github.com/Palm1r/QodeAssist)** — AI coding assistant plugin for Qt Creator.
-Chat with tool calling, code completion, quick refactor · 13 LLM providers · MCP client/server. ★ 428
+Chat with tool calling, code completion, quick refactor · LLM providers · MCP client/server.
 
 **[LLMQore](https://github.com/Palm1r/llmqore)** — Qt-native LLM SDK.
-Provider abstraction, streaming, tool calling, MCP/ACP · QFuture/QNetworkAccessManager-based. ★ 29
+Provider abstraction, streaming, tool calling, MCP/ACP · QFuture/QNetworkAccessManager-based.
 
 ### Qt Creator plugins
 
