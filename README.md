@@ -1,36 +1,27 @@
-<div align="center">
+## Petr Mironychev
 
-# Petr Mironychev
+Qt/C++ developer, 10+ years. Cross-platform desktop applications and UI/UX.
 
-**Qt/C++ Developer · 10+ years of native desktop software**
+**Qt Champion 2024 & 2025** — Qt Company's recognition program for community contributors.
 
-Developer tools at the intersection of Qt and LLMs
+### What I do
 
-Qt Champion 2024 & 2025 · palm1r-github-dev@pm.me
+- Production Qt/C++/QML desktop applications, shipped and maintained
+- UI/UX design and implementation in QML — interaction design, custom components, animation
+- Custom rendering and GPU/shader pipelines
+- Cross-platform architecture: Windows, Linux, macOS, Android, iOS
 
-</div>
+### Open source
 
----
+Tools I built for my own workflow and released.
 
-### Projects
+- **[Sticky Scroll](https://github.com/Palm1r/qt-creator-sticky-scroll)** — pins enclosing scope headers to the top of the editor while scrolling; per-language strategies derived from the highlighter's folding data.
+- **[LLMQore](https://github.com/Palm1r/LLMQore)** — C++/Qt abstraction layer over LLM providers, with streaming, tool calling and MCP.
 
-**[QodeAssist](https://github.com/Palm1r/QodeAssist)** — AI coding assistant plugin for Qt Creator.
-Chat with tool calling, code completion, quick refactor · LLM providers · MCP client/server.
+### Stack
 
-**[LLMQore](https://github.com/Palm1r/llmqore)** — Qt-native LLM SDK.
-Provider abstraction, streaming, tool calling, MCP/ACP · QFuture/QNetworkAccessManager-based.
+C++11–20 · Qt 5/6 · QML · OpenGL, Vulkan, BGFX/Filament · CMake, qmake · Go, Rust, Python, JavaScript · GitHub Actions, GitLab CI, Jenkins
 
-### Qt Creator plugins
+### Contact
 
-<table>
-<tr><td><b><a href="https://github.com/Palm1r/qt-creator-sticky-scroll">sticky-scroll</a></b></td><td>Pinned scope headers while scrolling. In Qt Creator's extension list.</td></tr>
-<tr><td><b><a href="https://github.com/Palm1r/qt-creator-changes-panel">changes-panel</a></b></td><td>VCS-modified files as a live navigation pane.</td></tr>
-<tr><td><b><a href="https://github.com/Palm1r/nord-qtcreator">nord-qtcreator</a></b></td><td>Nord color theme.</td></tr>
-</table>
-
-### Background
-
-**Core:** C++17/20 · Qt 5/6 · QML · CMake · desktop / mobile / embedded<br>
-**Graphics:** custom QML rendering · OpenGL · Vulkan · BGFX/Filament<br>
-**AI/LLM:** streaming APIs · tool calling · MCP/ACP protocols<br>
-**Leadership:** team lead · technical interviewing · mentoring
+palm1r-github-dev@pm.me
